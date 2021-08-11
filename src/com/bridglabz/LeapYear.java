@@ -12,5 +12,6 @@ public class LeapYear {
         int year = sc.nextInt();
         utility.fourDigit(year);
         utility.checkLeapYear(year);
+        utility.fourDigit(year);
     }
 }
